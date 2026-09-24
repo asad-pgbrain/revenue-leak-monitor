@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy
+python-dotenv
+stripe
+hubspot-api-client
+slack-sdk
+pandas
+openpyxl
+requests
+groq
+google-generativeai
